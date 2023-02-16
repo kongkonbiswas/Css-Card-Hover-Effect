@@ -117,7 +117,7 @@ body
     transition-delay: 0.75s;
     opacity: 1;
     visibility: visible;
-    left: 0;
+    left: 20px;
 }
 .card .content h2
 {
